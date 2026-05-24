@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nlhmnlhmnlhm/nlhmnlhmnlhm/main/images/2-most-commit-language.svg" height="200" />
-  <img src="https://raw.githubusercontent.com/nlhmnlhmnlhm/nlhmnlhmnlhm/main/images/2026-02-14_contributions.png" height="200" />
+  <img src="https://raw.githubusercontent.com/nlhmnlhmnlhm/nlhmnlhmnlhm/main/images/paper_mario.mp4" height="200" />
+  <img src="https://raw.githubusercontent.com/nlhmnlhmnlhm/nlhmnlhmnlhm/main/images/snapshot_2026-05-24_09-39-59.png" height="200" />
 </p>
